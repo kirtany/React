@@ -1,0 +1,9 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .weather-description {
+    text-align: center;
+    list-style: none;
+  }
+  
